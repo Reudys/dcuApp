@@ -1,0 +1,10 @@
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\bin\Debug\GestionTareas.exe.config
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\bin\Debug\GestionTareas.exe
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\bin\Debug\GestionTareas.pdb
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.AssemblyReference.cache
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.Form1.resources
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.Properties.Resources.resources
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.GenerateResource.cache
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.CoreCompileInputs.cache
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.exe
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.pdb
