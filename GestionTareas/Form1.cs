@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace GestionTareas
@@ -15,31 +8,65 @@ namespace GestionTareas
         public Form1()
         {
             InitializeComponent();
+            CargarFormularioPrederminado();
         }
+
+        public void CargarFormularioPrederminado()
+        {
+            Inicio form = new Inicio();
+            panelContenedor.Controls.Clear();
+            form.TopLevel = false;
+            form.FormBorderStyle = FormBorderStyle.None;
+            form.Dock = DockStyle.Fill;
+
+            panelContenedor.Controls.Add(form);
+
+            form.Show();
+        }
+
 
         public void CargarFormulario(Form formularioHijo)
         {
-            // Limpiar el panel antes de agregar un nuevo formulario
             panelContenedor.Controls.Clear();
 
-            // Configurar el formulario hijo
             formularioHijo.TopLevel = false;
             formularioHijo.FormBorderStyle = FormBorderStyle.None;
             formularioHijo.Dock = DockStyle.Fill;
 
-            // Agregar el formulario hijo al panel
             panelContenedor.Controls.Add(formularioHijo);
 
-            // Mostrar el formulario hijo
             formularioHijo.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            verTareas formularioHijo = new verTareas();
+            verTareas verTareas = new verTareas();
 
-            // Cargar el formulario hijo en el contenedor
-            CargarFormulario(formularioHijo);
+            CargarFormulario(verTareas);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            frmAgregarTarea frmAgregarTarea = new frmAgregarTarea();
+            CargarFormulario(frmAgregarTarea);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Inicio inicio = new Inicio();
+            CargarFormulario(inicio);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            frmEditarTarea frmEditarTarea = new frmEditarTarea();
+            CargarFormulario(frmEditarTarea);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            frmTareaRealizada frmTareaRealizada = new frmTareaRealizada();
+            CargarFormulario(frmTareaRealizada);
         }
     }
 }

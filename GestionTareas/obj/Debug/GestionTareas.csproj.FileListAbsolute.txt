@@ -8,3 +8,11 @@ C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.
 C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.CoreCompileInputs.cache
 C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.exe
 C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.pdb
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.verTareas.resources
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.Inicio.resources
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.frmAgregarTarea.resources
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.frmEditarTarea.resources
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionT.8023EBB4.Up2Date
+C:\Users\Rey\Desktop\GestionTareas\GestionTareas\obj\Debug\GestionTareas.frmTareaRealizada.resources

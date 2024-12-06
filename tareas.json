@@ -1,0 +1,20 @@
+[
+  {
+    "NombreClave": "Tarea 1",
+    "Materia": "Algebra",
+    "Descripcion": "Resolver problemas de álgebra",
+    "FechaEntrega": "2024-12-14"
+  },
+  {
+    "NombreClave": "Tarea 2",
+    "Materia": "Ciencias",
+    "Descripcion": "Preparar un informe sobre la célula",
+    "FechaEntrega": "2024-12-15"
+  },
+  {
+    "NombreClave": "Tarea 3",
+    "Materia": "Programacion",
+    "Descripcion": "Crear una App",
+    "FechaEntrega": "2024-12-07"
+  }
+]
